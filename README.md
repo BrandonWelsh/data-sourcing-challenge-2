@@ -26,3 +26,4 @@ You may have also noticed that my github repository is named "data-sourcing-chal
 
 ## Update Log
 12/10/2023: Started work on assignment. Got github repo created and finished part 1: Access the New York Times API. Saved work to github.
+12/10/2023: Finished part 2: Access The Movie Database API
