@@ -1,3 +1,6 @@
+## IMPORTANT - READ
+All my work for this assignment is located in the .ipynb_checkpoints folder. I don't know what that duplicate retrieve_movie_data.ipynb file is doing in this repo but ignore it, I never even touched it.
+
 ## Information
 Written by: Brandon Welsh
 
